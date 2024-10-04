@@ -1,0 +1,7 @@
+C:\Users\vecseizs\Gitwork\Szamrendszerek\obj\Debug\Szamrendszerek.csproj.AssemblyReference.cache
+C:\Users\vecseizs\Gitwork\Szamrendszerek\obj\Debug\Szamrendszerek.csproj.CoreCompileInputs.cache
+C:\Users\vecseizs\Gitwork\Szamrendszerek\bin\Debug\Szamrendszerek.exe.config
+C:\Users\vecseizs\Gitwork\Szamrendszerek\bin\Debug\Szamrendszerek.exe
+C:\Users\vecseizs\Gitwork\Szamrendszerek\bin\Debug\Szamrendszerek.pdb
+C:\Users\vecseizs\Gitwork\Szamrendszerek\obj\Debug\Szamrendszerek.exe
+C:\Users\vecseizs\Gitwork\Szamrendszerek\obj\Debug\Szamrendszerek.pdb
