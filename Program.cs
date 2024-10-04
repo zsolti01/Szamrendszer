@@ -24,13 +24,13 @@ namespace Szamrendszerek
             {
                 if (szam % 2 == 0) {
                     szamrendszer.Add(nulla);
-                    szam -= 1;
+                    szam = szam / 2;
                 }
 
                 else 
                 { 
                     szamrendszer.Add(egy);
-                    szam -= 1;
+                    szam = szam / 2;
                 }
 
             }
